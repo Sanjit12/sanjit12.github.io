@@ -23,7 +23,7 @@ const greeting = {
   username: "Sanjit Majumdar",
   title: "This is Sanjit here",
   subTitle: emoji(
-    "A high performing Full Stack Software Developer 🚀 having an experience of building Web and Desktop applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A high performing Full Stack Senior Software Developer 🚀 having an experience of building Web and Desktop applications with Angular / TypeScript / Nodejs / .NET and some other cool libraries and frameworks."
   ),
   resumeLink: "https://www.linkedin.com/in/sanjitmajumdar", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -64,16 +64,16 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Angular",
+      fontAwesomeClassname: "fab fa-angular"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "TypeScript",
+      fontAwesomeClassname: "fab fa-ts"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: ".NET",
+      fontAwesomeClassname: "fab fa-microsoft"
     },
     {
       skillName: "html-5",
@@ -102,10 +102,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
     }
   ],
   display: true // Set false to hide this section, defaults to true
